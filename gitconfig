@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = luizapn@hotmail.com
+	name = Luiza Passaglia Nascimento
